@@ -2,6 +2,10 @@
 
 This project is a Streamlit-based application that allows users to upload multiple PDFs, process the content, and ask questions about the uploaded files. The answers are generated using the Google Gemini AI with the LangChain framework.
 
+## 🌐 Live Demo
+
+Check out the deployed version of the app here: [Chat with Multiple PDFs](https://chat-multipdf-bot.streamlit.app/)
+
 ## ✨ Features
 
 - Upload multiple PDF files.
