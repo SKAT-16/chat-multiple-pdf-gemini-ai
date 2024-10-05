@@ -1,0 +1,14 @@
+langchain_community
+langchain-huggingface
+langchain-google-genai
+langchain_core
+langserve
+google-generativeai
+streamlit
+python-dotenv
+fastapi
+ipykernel
+bs4
+chromadb
+faiss-cpu
+PyPDF2
