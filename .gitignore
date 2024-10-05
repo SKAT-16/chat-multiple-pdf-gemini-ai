@@ -99,4 +99,6 @@ Dockerfile
 # Static files (optional, depending on your setup)
 staticfiles/
 media/
-faiss_index
+faiss_index/
+index.pkl
+faiss_index/index.pkl
