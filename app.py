@@ -85,7 +85,7 @@ def user_input(user_question):
 
 def main():
   st.set_page_config(page_title="Chat PDF")
-  st.header("Chat with multiple PDFs using Gemini AI")
+  st.header("Chat with multiple PDFs using Gemini AI 👋")
   
   with st.sidebar:
       st.title("Menu")
