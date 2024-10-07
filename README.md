@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chat-pdf-google-gemini.git
+git clone https://github.com/SKAT-16/chat-multiple-pdf-gemini-ai
 cd chat-pdf-google-gemini
 ```
 
